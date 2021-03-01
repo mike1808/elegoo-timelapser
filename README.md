@@ -7,7 +7,7 @@ A simple tool to select images with the highest location of build from your stat
 
 ## Installation
 
-Currnetly, only Linux 64 bit version is compiled and provided in [Release page](). For other platforms you have to compile yourself due to [issue in GoCV library](https://github.com/hybridgroup/gocv/issues/615#issuecomment-600318196).
+Currnetly, only Linux 64 bit version is compiled and provided in [Release page](https://github.com/mike1808/elegoo-timelapser/releases/tag/v0.0.1). For other platforms you have to compile yourself due to [issue in GoCV library](https://github.com/hybridgroup/gocv/issues/615#issuecomment-600318196).
 
 To compile the application just run:
 
